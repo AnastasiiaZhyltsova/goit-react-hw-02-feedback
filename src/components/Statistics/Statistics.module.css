@@ -1,0 +1,6 @@
+.list {
+  color: #757575
+}
+.item:not(:last-child){
+  margin-bottom: 10px;
+}
